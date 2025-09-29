@@ -15,7 +15,6 @@ This project analyzes a **time-series dataset from the University of Tehran** an
 ```
 weather.ipynb    # Main Jupyter notebook (analysis & modeling)
 Time-Series-Dataset-University-of-Tehran.xlsx   # Input dataset (hourly pollutant data)
-images/          # (optional) figures, plots, or screenshots (not provided here)
 ```
 
 ## 🔧 Requirements
